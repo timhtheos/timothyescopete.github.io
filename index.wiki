@@ -1,0 +1,8 @@
+---
+title: this is the title
+---
+
+And this is the content
+
+== [[2004]] ==
+
